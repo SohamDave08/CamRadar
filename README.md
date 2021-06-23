@@ -20,11 +20,11 @@ OpenCV2 is used for providing a medium to identify frontal_face and fetch facial
 > pip install opencv-python
 
 ### Pillow
-Pillow is used to manage hundreds of criminal images in a ordered manner.
+Pillow is used to manage hundreds of criminal images in an ordered manner.
 > pip install Pillow
 
 ### Numpy
-Numpy is used for converting the gived dataset to a training model and deploying the plugin in production with ease.
+Numpy is used for converting the given dataset to a training model and deploying the plugin in production with ease.
 > pip install numpy
 
 ### PyMySql
